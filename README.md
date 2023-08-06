@@ -1,3 +1,4 @@
 # sevrontestapp_fe
-Run npm install
-Update .env file
+Run <code>npm install</code> <br/>
+Update <code>.env</code> file <br/>
+Run <code>npm run start</code> or <code>PORT=3001 npm run start</code>
